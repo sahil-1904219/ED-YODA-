@@ -1,0 +1,14 @@
+.sidebar {
+  height: 85vh;
+  width: 10vw;
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+  background-color: #15294b;
+  padding: "0px";
+  margin: "0px";
+}
+.sidebar ul li {
+  align-items: center;
+  justify-content: center;
+}

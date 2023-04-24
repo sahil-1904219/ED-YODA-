@@ -1,0 +1,32 @@
+.homebody {
+  height: 85vh;
+  width: 90vw;
+  background-color: #f2f6ff;
+}
+
+.firstbox {
+  height: 18vh;
+  width: 69vw;
+  margin-left: 3vw;
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.secondbox {
+  height: 39vh;
+  width: 46vw;
+  margin-left: 3vw;
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+.down {
+  display: flex;
+  gap: 5vw;
+}
+.thirdbox {
+  height: 39vh;
+  width: 25vw;
+  /* margin-left: 3vw; */
+  /*  s*/
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

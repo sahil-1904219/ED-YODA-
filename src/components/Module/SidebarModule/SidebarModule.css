@@ -1,0 +1,9 @@
+.sidebartwo {
+  height: 85vh;
+  width: 20vw;
+  display: flex;
+  /* justify-content: center; */
+
+  color: #ffffff;
+  background-color: #e0e6f2;
+}
